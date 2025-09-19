@@ -83,10 +83,9 @@ int main() {
 ~~~
 
 🖥️ Sample Output
-<img width="1920" height="1080" alt="Screenshot 2025-08-29 092807" src="https://github.com/user-attachments/assets/aee782c9-e125-41f1-a025-d97fbca0afbe" />
+<img width="1911" height="891" alt="Screenshot 2025-09-19 093532" src="https://github.com/user-attachments/assets/7b1ec432-7a58-4032-a2a7-89bd4d94e340" />
+
 
 ✅ Result
 
 Thus, the Go-Back-N protocol using the sliding window technique was successfully implemented and verified.
-
-Github link : https://github.com/Rlokeshwar/Code-Blocks-Experiment-1/blob/main/README.md
