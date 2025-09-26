@@ -23,7 +23,7 @@ Add: netproto and pthread
 • 	IP address of the remote machine
 • 	Port address of both local and remote machines
 • 	Error rate
-7. 	Choose the file and verify the Go-Back-N protocol operation.
+7. 	Choose the file and verify the Go-Back-N protocol operation..
 
 💻 Program
 ~~~
